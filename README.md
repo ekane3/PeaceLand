@@ -102,3 +102,6 @@ Based on the preliminary questions, your solution is very likely to include :
 ● at least one distributed storage   
 ● at least one distributed stream   
 ● at least two stream consumer   
+
+
+## Architecture
